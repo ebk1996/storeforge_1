@@ -53,3 +53,4 @@ build/
 
 # Optional: ignore database seed files
 backend/seed.sql
+.vercel
